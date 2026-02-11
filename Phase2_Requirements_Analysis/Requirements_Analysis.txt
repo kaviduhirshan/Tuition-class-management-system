@@ -1,0 +1,58 @@
+Phase 2: Requirements Analysis
+
+1. Functional Requirements
+The following functional requirements describe the specific system behaviors and features.
+
+  1.1 User Authentication & Role Management
+      The system shall allow users (Admin and Tutor) to log in using a username and password.
+      The system shall authenticate user credentials before granting access.
+      The system shall restrict access to features based on user roles (Admin or Tutor).
+      The system shall allow the Admin to create tutor user accounts.
+
+  1.2 Student Management (Admin)
+      The system shall allow the Admin to register new students.
+      The system shall allow the Admin to update student information.
+      The system shall allow the Admin to delete student records.
+      The system shall allow the Admin to view the list of registered students.
+
+  1.3 Tutor Management (Admin)
+      The system shall allow the Admin to register tutors.
+      The system shall allow the Admin to update tutor details.
+      The system shall allow the Admin to view the list of tutors.
+
+  1.4 Class & Subject Management
+      The system shall allow the Admin to create subjects.
+      The system shall allow the Admin to create classes and schedules.
+      The system shall allow the Admin to assign tutors to classes.
+      The system shall allow the Admin to view class schedules.
+
+  1.5 Attendance Management (Tutor)
+      The system shall allow tutors to view assigned classes.
+      The system shall allow tutors to mark student attendance for each class.
+      The system shall store attendance records for future reference.
+
+  1.6 Payment Management (Admin)
+      The system shall allow the Admin to record student payments.
+      The system shall allow the Admin to view payment history of students.
+      The system shall allow the Admin to generate basic payment reports.
+
+
+2. Non-Functional Requirements
+The following non-functional requirements define system quality attributes.
+
+      The system shall be accessible through a standard web browser.
+      The system shall provide secure login authentication.
+      The system shall respond to user actions within 2 seconds under normal conditions.
+      The system shall ensure data integrity and confidentiality.
+      The system shall support at least 100 student records.
+      The system shall provide a user-friendly interface.
+      The system shall maintain availability during working hours of the tuition center.
+
+
+3. Use Case Descriptions
+      Login
+      Register Student
+      Create Class
+      Mark Attendance
+      Record Payment
+      View Reports
