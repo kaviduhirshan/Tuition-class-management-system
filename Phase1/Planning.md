@@ -1,0 +1,45 @@
+Tuition Class Management System (TCMS)
+
+1. Introduction
+The Tuition Class Management System (TCMS) is a web-based application developed to manage the daily operations of a tuition center. The system aims to replace manual record-keeping methods with a structured and centralized digital solution. The development of this project follows the Waterfall Software Development Model to ensure a systematic and sequential approach.
+
+
+2. Problem Statement
+Tuition centers often manage student records, tutor details, attendance, and payments manually using paper-based systems or basic spreadsheets. This approach can result in data loss, inaccurate records, and difficulty in tracking information efficiently. A simple web-based system is required to improve data organization and operational efficiency.
+
+
+3. Objectives
+      To develop a web-based system for managing tuition center activities.
+      To maintain organized records of students and tutors.
+      To allow Admin and Tutors to log in securely.
+      To manage class schedules and attendance digitally.
+      To record and track student payments efficiently.
+
+
+4. Scope
+  4.1 In-Scope
+      Web-based access through a browser
+      Secure login for Admin and Tutors
+      Student and tutor management
+      Class creation and tutor assignment
+      Attendance recording
+      Payment recording and basic reports
+
+  4.2 Out-of-Scope
+      Online payment integration
+      Mobile application development
+      SMS or email notifications
+      Advanced reporting and analytics
+
+
+5. Assumptions
+      The system will be used by a single tuition center.
+      Users have basic computer knowledge.
+      Internet access is available during system use.
+
+
+6. Constraints
+      The project must follow the Waterfall model.
+      Requirements must be finalized before moving to design.
+      Development time and resources are limited.
+      The system will be a minimal working prototype.
