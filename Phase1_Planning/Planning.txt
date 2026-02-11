@@ -1,3 +1,5 @@
+Phase 1: Planning
+
 Tuition Class Management System (TCMS)
 
 1. Introduction
